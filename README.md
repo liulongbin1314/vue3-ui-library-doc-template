@@ -1,5 +1,7 @@
 # 20章 - 组件库文档
 
+[付费视频教程·零基础开发Vue3组件库 - 哔哩哔哩课堂](https://www.bilibili.com/cheese/play/ss568518843)
+
 [Github - 组件库文档仓库地址](https://github.com/liulongbin1314/vue3-ui-library-doc-template)
 
 ## 1. 初始化组件库文档项目
