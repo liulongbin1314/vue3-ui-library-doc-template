@@ -115,7 +115,7 @@ export default defineConfig({
   },
   vite: {
     ssr: {
-      noExternal: ['@escook/vitepress-theme', 'vitepress']
+      noExternal: ['@escook/vitepress-theme', 'vitepress', 'escook-ui']
     },
     plugins: [
       // ⬇️ 新增
