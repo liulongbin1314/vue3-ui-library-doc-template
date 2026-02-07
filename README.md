@@ -1,8 +1,10 @@
 # 20章 - 组件库文档
 
-[付费视频教程·零基础开发Vue3组件库 - 哔哩哔哩课堂](https://www.bilibili.com/cheese/play/ss568518843)
+[escook-ui 组件库官方文档](https://escook-ui.liulongbin.top/)
 
-[Github - 组件库文档仓库地址](https://github.com/liulongbin1314/vue3-ui-library-doc-template)
+[哔哩哔哩课堂 - 付费视频教程·零基础开发Vue3组件库](https://www.bilibili.com/cheese/play/ss568518843)
+
+[Github - 组件库文档·模板仓库地址](https://github.com/liulongbin1314/vue3-ui-library-doc-template)
 
 ## 1. 初始化组件库文档项目
 
@@ -32,9 +34,9 @@
    // ...省略其它不必要的代码
    // ⬇️ 修改
    import { xxxResolver, xxxFunctionResolver } from '自己的组件库/es/utils'
-
+   
    // ...省略其它不必要的代码
-
+   
    export default defineConfig({
      title: 'Escook 组件库',
      description: '零基础开发 Vue3 组件库',
@@ -57,3 +59,5 @@
      }
    })
    ```
+
+> 温馨提示：静态资源（例如：文档首页的 logo.png）必须放到 public 目录下。
